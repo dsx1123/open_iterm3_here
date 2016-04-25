@@ -1,4 +1,6 @@
+-- 
 --Author: shdu
+--
 on run {input, parameters}
    tell application "Finder"
 end run
